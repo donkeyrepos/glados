@@ -1,4 +1,4 @@
-# Glados AI simulated computer system
+# GLaDOS AI simulated computer system
 
 ![alt tag](https://raw.githubusercontent.com/donkeyrepos/glados/master/glados.png)
 
